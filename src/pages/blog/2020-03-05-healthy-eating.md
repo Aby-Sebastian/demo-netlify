@@ -5,7 +5,7 @@ date: 2020-03-01T06:27:20.172Z
 description: >-
   Confused by all the conflicting nutrition advice out there? These simple tips
   can show you how to plan, enjoy, and stick to a healthy diet.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - food fruit vegetables
